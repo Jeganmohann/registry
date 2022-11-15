@@ -1,4 +1,4 @@
-module github.com/Jeganmohann/registry
+module github.com/jeganmohann/registry
 
 go 1.19
 
